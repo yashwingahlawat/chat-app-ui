@@ -20,7 +20,7 @@ app.use(express.json());
 app.use(cookieParser());
 app.use(
   cors({
-    origin: "https://chat-app-ui-omega-three.vercel.app/",
+    origin: "https://chat-app-ui-omega-three.vercel.app",
     credentials: true,
   })
 );
