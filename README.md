@@ -1,5 +1,8 @@
 #  Full Stack Realtime Chat App 🧌
 
+![Login Page](/frontend/public/screenshot-for-readme-1.png)
+![Custom UI Page](/frontend/public/custom_ui.png)
+![Chats](/frontend/public/chat.png)
 Highlights:
 
 -  Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
