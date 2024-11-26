@@ -47,7 +47,8 @@ npm run dev
 npm run dev
 ```
 
-###Sample
+### Sample
+
 ![Login Page](/frontend/public/screenshot-for-readme-1.png)
 
 ![Custom UI Page](/frontend/public/custom_ui.png)
