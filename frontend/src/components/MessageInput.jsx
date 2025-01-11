@@ -80,8 +80,8 @@ const MessageInput = () => {
             value={text}
             onChange={(e) => setText(e.target.value)}
           />
-          {/* <input type="file" accept="image/*" className="hidden" ref={fileInputRef} onChange={handleImageChange} /> */}
-          {/* 
+          <input type="file" accept="image/*" className="hidden" ref={fileInputRef} onChange={handleImageChange} /> 
+          
           <button
             type="button"
             className={`hidden sm:flex btn btn-circle
@@ -89,7 +89,7 @@ const MessageInput = () => {
             onClick={() => fileInputRef.current?.click()}
           >
             <Image size={20} />
-          </button> */}
+          </button>
         </div>
         <button
           type="submit"
